@@ -1,0 +1,22 @@
+{
+  "wheel_id": 783,
+  "structure": "umbrella",
+  "slug": "retainingwallquote-152",
+  "project": "retaining-wall-quotes-c58ae5594e49b40dfb8a20819f5c81de8a8f320d",
+  "parent_t1_ref": "retainingwallquote-005",
+  "node_role": "buffer",
+  "money_target": "retainingwallquote.com.au",
+  "primary_kw": "retaining wall quotes",
+  "intended_url": "https://sitesau.github.io/retainingwallquote-152/",
+  "tier": "T2",
+  "writeback_nonce": "d4752c0aad91be63",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-quotes/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
